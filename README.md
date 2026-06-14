@@ -1,5 +1,7 @@
 # Backend Golang Coding Test
 
+> Setup and JWT guide is available at [`docs/setup-and-jwt.md`](docs/setup-and-jwt.md). Swagger UI is available at `/api-docs` when the server is running.
+
 ## Overview
 
 This coding test has two parts.
